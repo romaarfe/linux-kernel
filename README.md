@@ -14,16 +14,15 @@
 
 ---
 #### ▶️ STEPS:
-- [x] Credit card applications
-1. Introduction
-2. Reading in the dataset
-3. Getting an overview
-4. Finding the TOP 10 contributors
-5. Wrangling the data
-6. Treating wrong timestamps
-7. Grouping commits per year
-8. Visualizing the history of Linux
-9. Conclusion
+- [x] Introduction
+- [x] Reading in the dataset
+- [x] Getting an overview
+- [x] Finding the TOP 10 contributors
+- [x] Wrangling the data
+- [x] Treating wrong timestamps
+- [x] Grouping commits per year
+- [x] Visualizing the history of Linux
+- [x] Conclusion
 
 ---
 ##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
