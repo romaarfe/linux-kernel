@@ -15,31 +15,6 @@
 ---
 #### ▶️ STEPS:
 - [x] Credit card applications
-- [x] Inspecting the applications
-- [x] Handling the missing values (part i)
-- [x] Handling the missing values (part ii)
-- [x] Handling the missing values (part iii)
-- [x] Preprocessing the data (part i)
-- [x] Splitting the dataset into train and test sets
-- [x] Preprocessing the data (part ii)
-- [x] Fitting a logistic regression model to the train set
-- [x] Making predictions and evaluating performance
-- [x] Grid searching and making the model perform better
-- [x] Finding the best performing model
-
----
-##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
-##### 🧑‍🏫 **Instructor**: Markus Harrer
-##### 📖 **Career Track**: Data Scientist with Python
-
-# ****
-
-## **
-
-#
-
-
-#
 1. Introduction
 2. Reading in the dataset
 3. Getting an overview
@@ -49,4 +24,8 @@
 7. Grouping commits per year
 8. Visualizing the history of Linux
 9. Conclusion
-#
+
+---
+##### 💻 At <a href="https://www.datacamp.com" target="_blank">DataCamp</a>.
+##### 🧑‍🏫 **Instructor**: Markus Harrer
+##### 📖 **Career Track**: Data Scientist with Python
